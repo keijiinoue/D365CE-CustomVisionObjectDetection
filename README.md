@@ -1,6 +1,7 @@
 # D365CE-CustomVisionObjectDetection
 D365 CE と Custom Vision Object Detection (執筆時点でプレビュー) の API を使ったサンプルです。  
-D365 CE と Custom Vision Object Detection と Azure Functions を利用しています。
+D365 CE と Custom Vision Object Detection と Azure Functions を利用しています。  
+- ![Img005](imgs/Img005.png)
 
 ## 前提条件
 - Custom Vision の Object Detection で Training が済んでいる Project をお持ちであること。
